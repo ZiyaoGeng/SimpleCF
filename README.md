@@ -1,5 +1,5 @@
 # SimpleCF
-Collaborative filtering that based on user behavior design is one of the most well-known, influential and widely used models in the recommendation world. Therefore, I share my code for a simple start.
+Collaborative filtering that based on user behavior design is one of the most well-known, influential and widely used models in the recommendation world. Therefore, I share my code(ItemCF and UserCF) for a simple start.
 
 
 
@@ -21,4 +21,10 @@ Collaborative filtering that based on user behavior design is one of the most we
 ├── evaluate.py
 └── utils.py
 ```
+
+
+
+## Details
+
+**Dataset:** [ml-1m dataset](https://grouplens.org/datasets/movielens/) and  `utils.py` contains details for processing dataset.
 
