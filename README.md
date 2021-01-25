@@ -1,5 +1,5 @@
 # SimpleCF
-Collaborative filtering that based on user behavior design is one of the most well-known, influential and widely used models in the recommendation world. Therefore, I share my code a simple start.
+Collaborative filtering that based on user behavior design is one of the most well-known, influential and widely used models in the recommendation world. Therefore, I share my code for a simple start.
 
 
 
